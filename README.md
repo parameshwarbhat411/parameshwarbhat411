@@ -53,7 +53,7 @@ A sample of my recent articles:
 
 ## Latest Medium Article
 
-[Latest Medium Article](#)
+[Latest Medium Article](https://medium.com/@parameshwarbhat411/github-stars-pipeline-2-55104f56a4f3?source=rss-e6fc3cbf8402------2) - Github Stars Pipeline — 2
 
 ## &#x1f4c8; GitHub Stats
 
