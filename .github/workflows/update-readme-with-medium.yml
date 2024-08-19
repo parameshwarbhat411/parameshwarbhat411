@@ -18,7 +18,6 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            const fetch = require('node-fetch');
             const mediumUsername = 'parameshwarbhat411'
             const response = await fetch('https://medium.com/feed/@${mediumUsername}');
             const rss = await response.text();
@@ -29,6 +28,8 @@ jobs:
             const latestArticle = feed.rss.channel[0].item[0];
             const title = latestArticle.title[0]
             const links = latestArticle.link[0]
+            
+            console.log(`Fetched article: ${title} - ${link}`);
             
             return { title, link };
 
