@@ -49,8 +49,6 @@ My name is Parameshwar Bhat and I'm a Data/Software engineer. I'm from India, li
 
 Apart from coding, I also maintain a blog - you can find my articles on my medium account at [Medium](https://medium.com/@parameshwarbhat411)
 
-A sample of my recent articles:
-
 ## Latest Medium Article
 
 [Latest Medium Article](https://medium.com/@parameshwarbhat411/github-stars-pipeline-2-55104f56a4f3?source=rss-e6fc3cbf8402------2) - Github Stars Pipeline — 2
