@@ -51,7 +51,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my mediu
 
 ## Latest Medium Article
 
-[Latest Medium Article](https://medium.com/@parameshwarbhat411/github-stars-pipeline-2-55104f56a4f3?source=rss-e6fc3cbf8402------2) - Github Stars Pipeline — 2
+[Latest Medium Article](https://medium.com/@parameshwarbhat411/docker-in-docker-the-good-and-the-bad-48cfe4e0da6e?source=rss-e6fc3cbf8402------2) - Docker-In-Docker: The Good And the Bad
 
 ## &#x1f4c8; GitHub Stats
 
