@@ -53,10 +53,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my mediu
 
 [Latest Medium Article](https://medium.com/@parameshwarbhat411/docker-in-docker-the-good-and-the-bad-48cfe4e0da6e?source=rss-e6fc3cbf8402------2) - Docker-In-Docker: The Good And the Bad
 
-## &#x1f4c8; GitHub Stats
-
-![Parameshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=parameshwarbhat411&show_icons=true&theme=dracula&hide=issues,stars&rank_icon=github)
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
