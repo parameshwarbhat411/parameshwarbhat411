@@ -6,7 +6,7 @@
 
 # Hello, folks! <img src="wave.gif" width="30px" height="30px" />
 
-My name is Parameshwar Bhat and I'm a Data/Software engineer. I'm from India, living in Arlington, Virginia. You can find me on [![LinkedIn][3.2]][3].
+My name is Parameshwar Bhat and I'm a Data/Software engineer. I'm from India, living in Portland, Oregon. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
